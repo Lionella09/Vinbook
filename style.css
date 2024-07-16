@@ -21,6 +21,4 @@ body{
 #bouton{
 	display: flex;
 	justify-content: space-around;
-	border:solid;
-	border-width: 5px;
 }
